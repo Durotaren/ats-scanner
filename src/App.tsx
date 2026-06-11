@@ -1,3 +1,3 @@
 export default function App() {
-  return <main className="text-xl text-red-400">Hello</main>;
+  return <main className="flex flex-col p-4 w-full h-screen">Hello</main>;
 }
