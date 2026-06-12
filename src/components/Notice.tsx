@@ -1,4 +1,4 @@
-import Info from './svgs/Info';
+import Info from './svgs/InfoSvg';
 
 export default function Notice() {
   return (
