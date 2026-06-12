@@ -1,7 +1,7 @@
 export default function Analyze() {
   return (
-    <div>
-      <p>Analyze Resume</p>
+    <div className="col-span-2 flex justify-center items-center">
+      <p className="text-[#9c9a92]">Analyze Resume</p>
     </div>
   );
 }

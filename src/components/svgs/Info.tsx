@@ -7,11 +7,11 @@ export default function Info() {
       stroke="#000000"
       className="w-8 h-8"
     >
-      <g id="SVGRepo_bgCarrier" stroke-width="0"></g>
+      <g id="SVGRepo_bgCarrier" strokeWidth="0"></g>
       <g
         id="SVGRepo_tracerCarrier"
-        stroke-linecap="round"
-        stroke-linejoin="round"
+        strokeLinecap="round"
+        strokeLinejoin="round"
       ></g>
       <g id="SVGRepo_iconCarrier">
         {' '}
@@ -30,16 +30,16 @@ export default function Info() {
                 id="_--Circle"
                 r="10"
                 stroke="#9C9A92"
-                stroke-linecap="round"
-                stroke-linejoin="round"
-                stroke-width="2"
+                strokeLinecap="round"
+                strokeLinejoin="round"
+                strokeWidth="2"
               ></circle>{' '}
               <line
                 fill="none"
                 stroke="#9C9A92"
-                stroke-linecap="round"
-                stroke-linejoin="round"
-                stroke-width="2"
+                strokeLinecap="round"
+                strokeLinejoin="round"
+                strokeWidth="2"
                 x1="12"
                 x2="12"
                 y1="12"
@@ -48,9 +48,9 @@ export default function Info() {
               <line
                 fill="none"
                 stroke="#9C9A92"
-                stroke-linecap="round"
-                stroke-linejoin="round"
-                stroke-width="2"
+                strokeLinecap="round"
+                strokeLinejoin="round"
+                strokeWidth="2"
                 x1="12"
                 x2="12"
                 y1="8"
